@@ -1,4 +1,4 @@
-from jedro.phone_detector import is_suspicious_phone
+from phone_detector import is_suspicious_phone
 
 def main():
     print("🔍 Detektor prevar – zagon")
